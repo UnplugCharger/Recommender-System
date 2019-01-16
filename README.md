@@ -1,4 +1,4 @@
-# Music Artist Recommender System
+# Music Artist Recommender System with Apache Spark
 
 Built a personalized music artist recommendation system with Yahoo! music community ratings.
 
